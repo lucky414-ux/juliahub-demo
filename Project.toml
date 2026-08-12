@@ -1,0 +1,4 @@
+name = "JuliaHubDemo"
+uuid = "12345678-1234-1234-1234-123456789abc"
+authors = ["Demo"]
+version = "0.1.0"
